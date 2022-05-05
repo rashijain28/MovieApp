@@ -169,6 +169,16 @@ main{
     color:grey;
 }
 
+.selectDropdwon{
+    width: 173px;
+    padding: 11px;
+    border-radius: 14px;
+    margin-left: 19px;
+    border: 1px solid black;
+    background-color: var(--secondary-color);
+    color: #fff
+}
+
 .current{
     padding: 10px 20px;
     border-radius: 50%;
